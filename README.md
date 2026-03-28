@@ -27,6 +27,13 @@ Synthetic weekly data including:
 - R² ≈ 0.64
 - MAPE ≈ 2.4%
 - Bayesian posterior checks passed
+## Visual Results
+
+### Model Fit
+![Model Fit](images/model_fit.png)
+
+### Channel Contribution
+![Contribution](images/contribution.png) 
 
 ## Insights
 - Estimated channel contributions to revenue
