@@ -33,7 +33,8 @@ Synthetic weekly data including:
 ![Model Fit](images/model_fit.png)
 
 ### Channel Contribution
-![Contribution](images/contribution.png) 
+<img width="723" height="418" alt="image" src="https://github.com/user-attachments/assets/88b3aa34-d396-46d0-a0be-5fbc0247ca94" />
+
 
 ## Insights
 - Estimated channel contributions to revenue
