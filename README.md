@@ -36,11 +36,13 @@ Synthetic weekly data including:
 ### Channel Contribution
 <img width="723" height="418" alt="image" src="https://github.com/user-attachments/assets/88b3aa34-d396-46d0-a0be-5fbc0247ca94" />
 
-
-## Insights
-- Estimated channel contributions to revenue
-- ROI signals identified per channel
-- Model suitable for budget optimization
+## Key Insights
+- YouTube shows the strongest contribution to revenue over time
+- Search contributes consistently but with lower incremental impact
+- Baseline demand remains a significant component, indicating organic demand
+  
+ ## Business Recommendation
+Based on the model results, increasing investment in YouTube may yield higher incremental returns compared to Search, while maintaining baseline demand drivers.
 
 ## Tools
 - Python
