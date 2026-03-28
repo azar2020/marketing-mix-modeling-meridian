@@ -30,7 +30,8 @@ Synthetic weekly data including:
 ## Visual Results
 
 ### Model Fit
-![Model Fit](images/model_fit.png)
+<img width="826" height="404" alt="model_fit png" src="https://github.com/user-attachments/assets/b5022285-0f96-4299-bb05-cac1890a172f" />
+
 
 ### Channel Contribution
 <img width="723" height="418" alt="image" src="https://github.com/user-attachments/assets/88b3aa34-d396-46d0-a0be-5fbc0247ca94" />
